@@ -1,5 +1,5 @@
 # rag-pdf-chatbot
-Reading those explanation of benefits documents can be hard! This repo has a RAG (retrieval augmented generation) streamlit chatbot that does that hard work for you.
+Reading those explanation of benefits documents can be hard! This repo has a RAG (retrieval augmented generation) streamlit chatbot that does the hard work for you.
 
 ### Link to app 
 https://eob-chatbot.streamlit.app/
