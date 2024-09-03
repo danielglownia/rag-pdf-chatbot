@@ -1,0 +1,16 @@
+streamlit
+st-pages==0.4.5
+chromadb
+langchain
+pypdf
+PyPDF2
+sentence_transformers
+huggingface
+pinecone-client
+PyMuPDF
+langchain-community
+pandas
+pymilvus
+streamlit-modal
+openai
+tiktoken
